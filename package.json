@@ -6,8 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "firebase": "^9.21.0",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-loading-skeleton": "^3.3.0"
   }
 }
